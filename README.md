@@ -1,0 +1,4 @@
+smokey-cannacoin
+================
+
+Crypto currency 
